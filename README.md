@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DNAmaster10
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing ;(
 - 📫 How to reach me: louishollobon@outlook.com
 
