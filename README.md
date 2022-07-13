@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @DNAmaster10
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing ;(
-- 📫 How to reach me: louishollobon@outlook.com
+- 📫 How to reach me: louishollobon@outlook.com or message me on here somehow
+
+I like to mess around with PHP mostly, however Java is something i use a lot too.
+I know:
+- Python
+- Javascript
+- PHP
+- Java
+- SQL
+- Bash
 
 <!---
 DNAmaster10/DNAmaster10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
