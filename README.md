@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DNAmaster10</h1>
+<h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">An active Java and PHP hobbyist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnamaster10" alt="dnamaster10" /></a> </p>
