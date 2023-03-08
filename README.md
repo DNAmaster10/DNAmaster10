@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **louishollobon@outlook.com**
 
-- ⚡ Fun fact **GNU + Linux is superior to all other operating systems.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
