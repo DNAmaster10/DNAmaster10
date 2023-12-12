@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">An active Java and PHP hobbyist</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DNAmaster10)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 📫 How to reach me **louishollobon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
